@@ -1668,8 +1668,8 @@ input, select, textarea {
 		}
 		.box .arbre15{
 		position: relative;
-		width: 500px;
-		margin:auto;
+		max-width: 80%;
+		
 		}
 		.box .arbre16{
 		position: relative;
